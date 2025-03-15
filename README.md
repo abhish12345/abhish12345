@@ -35,7 +35,7 @@ I am a passionate **AI Developer & Full-Stack Enthusiast** with experience in **
 🔹 Optimizing **data pipelines & feature engineering** for improved model efficiency
 
 ### **Azine Web Technologies (Ahmedabad, India) | ML Engineer** _(Feb 2025 - Present)_ 
-🔹 Developed **machine learning models** to enhance predictive analytics, boosting accuracy by **25%**  
+🔹 Building and deploying **scalable ML models** to enhance predictive analytics  
 🔹 Optimizing **data pipelines & feature engineering** for improved model efficiency
 
 ### **JMedia Corp. (Texas, USA) | AI Intern** _(Nov 2024 – Jan 2025)_  
