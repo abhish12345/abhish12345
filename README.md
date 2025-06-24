@@ -14,21 +14,6 @@ I am a passionate **AI Developer & Full-Stack Enthusiast** with experience in **
 
 ---  
 
-## 🔬 **Projects**  
-### 🚀 [Face Recognition System](https://github.com/abhish12345/Smart_Attendance_using_camera)  
-🔹 **Technologies**: Python, OpenCV, KNN  
-🔹 **Key Features**: Real-time face detection using HaarCascades in under **700ms**  
-
-### 🧠 [Bankruptcy Classifier Using ML](https://github.com/abhish12345/Bankruptcy)  
-🔹 **Technologies**: Scikit-learn, PCA, Random Forest  
-🔹 **Key Features**: Predicts bankruptcy using **Random Forest & Logistic Regression**, improving accuracy  
-
-### 🎮 [Quizify - Interactive Quiz App](https://github.com/abhish12345/Quiz_React)  
-🔹 **Technologies**: React, Bootstrap, JavaScript  
-🔹 **Key Features**: Dynamic routing, API-based data fetching, and real-time scoring  
-
----  
-
 ## 🌟 **Experience**
 ### **Azine Web Technologies (Ahmedabad, India) | ML Engineer** _(Feb 2025 - Present)_ 
 🔹 Building and deploying **scalable ML models** to enhance predictive analytics  
