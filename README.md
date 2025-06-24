@@ -30,11 +30,11 @@ I am a passionate **AI Developer & Full-Stack Enthusiast** with experience in **
 ---  
 
 ## 🛠 **Tech Stack & Skills**  
-🔹 **Languages**: Python, JavaScript, R, Java  
-🔹 **Frameworks**: React.js, Scikit-learn, TensorFlow, PyTorch, OpenCV  
-🔹 **Databases**: MySQL  
-🔹 **Tools**: GitHub, VS Code, Jupyter Notebook, PowerBI  
-
+🔹 **Languages**: Python, Java, JavaScript, HTML, CSS, SQL
+🔹 **Frameworks & Libraries**:  TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Flask, FastAPI, ReactJS, Tailwind CSS 
+🔹 **Dev Tools & Technologies**: Docker, Git, GitHub, VS Code, Postman, Eclipse, Jupyter Notebook, Gitlab
+🔹 **Databases**: MongoDB, MySQL 
+🔹 **Machine Learning**:  Supervised & Unsupervised Learning, CNN, NLP, Computer Vision, Feature Engineering, Model Deployment 
 ---  
 
 ## 📝 **Certifications**  
