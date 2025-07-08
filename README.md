@@ -19,13 +19,9 @@ I am a passionate **AI Developer & Full-Stack Enthusiast** with experience in **
 🔹 Building and deploying **scalable ML models** to enhance predictive analytics  
 🔹 Optimizing **data pipelines & feature engineering** for improved model efficiency
 
-### **JMedia Corp. (Texas, USA) | AI Intern** _(Jul 2024 – Jan 2025)_  
+### **JMedia Corp. (Texas, USA) | AI/ML Engineer** _(Jul 2024 – Jan 2025)_  
 🔹 Developed **machine learning models** to enhance predictive analytics, boosting accuracy by **25%**  
 🔹 Optimized **data preprocessing & feature engineering**, improving training efficiency by **30%**  
-
-### **Infosys (Bengaluru, India) | AI Intern** _(Oct 2024 – Dec 2024)_  
-🔹 Implemented and fine-tuned **LeNet-5** architecture, achieving **98% accuracy** in image classification  
-🔹 Developed **CNN models** to detect image patterns, reducing processing time by **20%**  
 
 ---  
 ## 🛠 Tech Stack & Skills
