@@ -63,7 +63,7 @@ fun_fact: "I can build an AI that recognizes your voice among 250 people 🎤"
 <!-- WHAT I DO -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;What I Build
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;What I Build
 
 <table>
   <tr>
