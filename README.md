@@ -23,19 +23,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=abhish12345&amp;label=Profile%20Views&amp;color=0EA5E9&amp;style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abhishek-kumar-a26b3522a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:abhishekkumarnwd71@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Noida,_India-📍-192A56?style=for-the-badge" alt="Location"/>
-
+  <img src="https://komarev.com/ghpvc/?username=abhish12345&amp;label=Profile%20Views&amp;color=0EA5E9&amp;style=for-the-badge" alt="Profile Views" />&nbsp;<a href="https://www.linkedin.com/in/abhishek-kumar-a26b3522a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="mailto:abhishekkumarnwd71@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/></a>&nbsp;<img src="https://img.shields.io/badge/Noida,_India-📍-192A56?style=for-the-badge" alt="Location"/>
 </div>
 
 <br/>
