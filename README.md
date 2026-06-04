@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:192A56,100:0EA5E9&height=220&section=header&text=Abhishek%20Kumar&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Machine%20Learning%20%26%20AI%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:192A56,100:0EA5E9&amp;height=220&amp;section=header&amp;text=Abhishek%20Kumar&amp;fontColor=ffffff&amp;fontSize=50&amp;fontAlignY=35&amp;desc=Machine%20Learning%20and%20AI%20Engineer&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Production-Grade+AI+Systems+%F0%9F%9A%80;Speaker+Recognition+%7C+RAG+Pipelines+%7C+Computer+Vision+%F0%9F%94%AD;2.5%2B+Years+of+Shipping+ML+to+Production+%E2%9A%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=100&amp;lines=Building+Production-Grade+AI+Systems+%F0%9F%9A%80;Speaker+Recognition+%7C+RAG+Pipelines+%7C+Computer+Vision+%F0%9F%94%AD;2.5%2B+Years+of+Shipping+ML+to+Production+%E2%9A%A1" alt="Typing SVG" /></a>
 
 </div>
 
@@ -24,14 +24,14 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=abhish12345&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhish12345&amp;label=Profile%20Views&amp;color=0EA5E9&amp;style=for-the-badge" alt="Profile Views" />
   &nbsp;
   <a href="https://www.linkedin.com/in/abhishek-kumar-a26b3522a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:abhishekkumarnwd71@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Noida,_India-📍-192A56?style=for-the-badge" alt="Location"/>
@@ -217,14 +217,14 @@ fun_fact: "I can build an AI that recognizes your voice among 250 people 🎤"
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhish12345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&ring_color=0EA5E9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abhish12345&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=FF6B6B&currStreakLabel=0EA5E9&sideLabels=0EA5E9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6B7280" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=abhish12345&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=0EA5E9&amp;icon_color=0EA5E9&amp;text_color=c9d1d9&amp;ring_color=0EA5E9" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=abhish12345&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=0EA5E9&amp;fire=FF6B6B&amp;currStreakLabel=0EA5E9&amp;sideLabels=0EA5E9&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=6B7280" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhish12345&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhish12345&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=0EA5E9&amp;text_color=c9d1d9&amp;langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -236,7 +236,7 @@ fun_fact: "I can build an AI that recognizes your voice among 250 people 🎤"
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhish12345&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FF6B6B&area=true&area_color=192A56&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhish12345&amp;bg_color=0D1117&amp;color=0EA5E9&amp;line=0EA5E9&amp;point=FF6B6B&amp;area=true&amp;area_color=192A56&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -251,15 +251,15 @@ fun_fact: "I can build an AI that recognizes your voice among 250 people 🎤"
 <div align="center">
 
   <a href="https://www.linkedin.com/in/abhishek-kumar-a26b3522a/">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:abhishekkumarnwd71@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/abhish12345">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
 
 </div>
@@ -272,7 +272,7 @@ fun_fact: "I can build an AI that recognizes your voice among 250 people 🎤"
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:192A56,100:0EA5E9&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:192A56,100:0EA5E9&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
 
