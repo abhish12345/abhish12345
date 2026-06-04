@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=100&amp;lines=Building+Production-Grade+AI+Systems+%F0%9F%9A%80;Speaker+Recognition+%7C+RAG+Pipelines+%7C+Computer+Vision+%F0%9F%94%AD;2.5%2B+Years+of+Shipping+ML+to+Production+%E2%9A%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=100&amp;separator=~&amp;lines=Building+Production-Grade+AI+Systems+%F0%9F%9A%80~Speaker+Recognition+%7C+RAG+Pipelines+%7C+Computer+Vision+%F0%9F%94%AD~2.5%2B+Years+of+Shipping+ML+to+Production+%E2%9A%A1" alt="Typing SVG" /></a>
 
 </div>
 
