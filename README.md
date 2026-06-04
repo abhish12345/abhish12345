@@ -1,50 +1,281 @@
-## Hi there 👋
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- HEADER BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-### 📌 **Abhishek Kumar**  
-🚀 AI | ML | Data Science | Full-Stack Development  
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:192A56,100:0EA5E9&height=220&section=header&text=Abhishek%20Kumar&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Machine%20Learning%20%26%20AI%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
-📍 **Bengaluru, India**  
-📧 [abhishekkumarnwd71@gmail.com](mailto:abhishekkumarnwd71@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-a26b3522a/) | [GitHub](https://github.com/abhish12345)  
+</div>
 
----  
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- TYPING ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🛠 **About Me**  
-I am a passionate **AI Developer & Full-Stack Enthusiast** with experience in **Machine Learning, Deep Learning, and Frontend Development**. I have worked on diverse projects, including **Face Recognition Systems, Bankruptcy Prediction Models, and Real-Time Quiz Applications**, leveraging **Python, JavaScript, React, and AI/ML frameworks**. Currently, I am honing my skills as an **AI Intern at JMedia Corp, Texas, USA**.  
+<div align="center">
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Production-Grade+AI+Systems+%F0%9F%9A%80;Speaker+Recognition+%7C+RAG+Pipelines+%7C+Computer+Vision+%F0%9F%94%AD;2.5%2B+Years+of+Shipping+ML+to+Production+%E2%9A%A1" alt="Typing SVG" /></a>
 
----  
+</div>
 
-## 🌟 **Experience**
-### **Azine Web Technologies (Ahmedabad, India) | ML Engineer** _(Feb 2025 - Present)_ 
-🔹 Building and deploying **scalable ML models** to enhance predictive analytics  
-🔹 Optimizing **data pipelines & feature engineering** for improved model efficiency
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- PROFILE BADGES -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-### **Phoenix Labs Global (Texas, USA) | AI/ML Engineer** _(Jul 2024 – Jan 2025)_  
-🔹 Developed **machine learning models** to enhance predictive analytics, boosting accuracy by **25%**  
-🔹 Optimized **data preprocessing & feature engineering**, improving training efficiency by **30%**  
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=abhish12345&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abhishek-kumar-a26b3522a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abhishekkumarnwd71@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Noida,_India-📍-192A56?style=for-the-badge" alt="Location"/>
 
----  
-## 🛠 Tech Stack & Skills
+</div>
 
-💻 **Languages**: Python, Java, JavaScript, HTML, CSS, SQL  
-📚 **Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Flask, FastAPI, ReactJS, Tailwind CSS  
-⚙️ **Dev Tools & Technologies**: Docker, Git, GitHub, GitLab, VS Code, Postman, Eclipse, Jupyter Notebook  
-🗄 **Databases**: MySQL, MongoDB  
-🤖 **Machine Learning**: Supervised & Unsupervised Learning, CNN, NLP, Computer Vision, Feature Engineering, Model Deployment  
+<br/>
 
----  
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 📝 **Certifications**  
-✔ **Python Data Structure** - Coursera  
-✔ **Deep Learning for Developers** - Infosys  
-✔ **CCNAv7: Introduction to Networks** - Cisco  
-✔ **CCNAv7: Switching, Routing & Wireless Essentials** - Cisco  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
 
----  
+```yaml
+name: Abhishek Kumar
+role: Machine Learning & AI Engineer
+experience: 2.5+ years
+location: Noida, India
+education: B.Tech in Electronics & Communication Engineering (CGPA: 8.17/10)
 
-## 💌 **Get in Touch**  
-🔗 **Portfolio**: [GitHub](https://github.com/abhish12345)  
-📧 [abhishekkumarnwd71@gmail.com](mailto:abhishekkumarnwd71@gmail.com)  
+currently_working_on:
+  - Real-time Speaker Identification (250+ speakers)
+  - Speech-to-Text & Text-to-Speech Microservices
+  - OCR-driven RAG Pipelines
+  - Multi-Agent AI Systems
 
----
+domains:
+  - Natural Language Processing
+  - Computer Vision
+  - Audio & Speech Processing
+  - Generative AI & LLMs
+  - Data Engineering & ETL
 
+fun_fact: "I can build an AI that recognizes your voice among 250 people 🎤"
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- WHAT I DO -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;What I Build
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/microphone.png" width="48"/><br/>
+      <b>🎤 Speaker Recognition</b><br/>
+      <sub>Real-time voice identification<br/>for 250+ individuals using<br/>ECAPA-TDNN & Wav2Vec2</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48"/><br/>
+      <b>🤖 RAG & LLM Pipelines</b><br/>
+      <sub>Advanced retrieval-augmented<br/>generation with LangChain,<br/>LlamaIndex & ChromaDB</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/visible.png" width="48"/><br/>
+      <b>👁️ Computer Vision</b><br/>
+      <sub>Object detection & OCR<br/>pipelines using YOLO,<br/>OpenCV & PaddleOCR</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/data-configuration.png" width="48"/><br/>
+      <b>⚡ ML Microservices</b><br/>
+      <sub>Production-grade APIs with<br/>FastAPI, Docker &<br/>AWS deployment</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+
+### 🧠 Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🔊 Audio & Speech Processing
+![Whisper](https://img.shields.io/badge/Whisper_(STT)-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Bark TTS](https://img.shields.io/badge/Bark_(TTS)-00C853?style=for-the-badge&logo=audiomack&logoColor=white)
+![Speaker ID](https://img.shields.io/badge/ECAPA--TDNN-FF6B6B?style=for-the-badge&logo=acousticguitar&logoColor=white)
+
+### 🤖 Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0EA5E9?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logo=llama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF4081?style=for-the-badge&logo=databricks&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 👁️ Computer Vision & OCR
+![YOLO](https://img.shields.io/badge/YOLO_(v8/v11)-00BFFF?style=for-the-badge&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge&logo=paddlepaddle&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract_OCR-2D8CFF?style=for-the-badge&logo=google&logoColor=white)
+
+### 🔧 Backend & DevOps
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- EXPERIENCE TIMELINE -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
+
+```
+🟢 Mar 2026 – Present   Softel Solutions Pvt. Ltd          Python Developer (AI/ML)
+🔵 Feb 2025 – Feb 2026  Azine Web Technologies Pvt. Ltd    Machine Learning Engineer
+🟣 Jul 2024 – Jan 2025  Phoenix Labs Global                AI & ML Engineer
+🟠 Jan 2024 – Jun 2024  Atharvo India Pvt. Ltd             Machine Learning Intern
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- KEY ACHIEVEMENTS -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> &nbsp;Key Achievements
+
+<div align="center">
+
+| Metric | Impact |
+|:---|:---|
+| 🎯 Speaker Recognition Accuracy | **94%** across **250+** individuals |
+| 📉 Manual Compliance Effort | Reduced by **65%** |
+| 🔍 High-Risk Detection Boost | Increased by **28%** |
+| ⚡ RAG Search Time | Reduced by **35%** |
+| 🛡️ Fraud False Positives | Reduced by **37%** |
+| 📊 Pipeline Throughput | Improved by **40%** |
+| 🏷️ Barcode Extraction Accuracy | **95%+** under 30% degradation |
+| 📰 News Classification Accuracy | Improved by **21%** |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- CERTIFICATIONS -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28" /> &nbsp;Certifications
+
+<div align="center">
+
+![Oracle](https://img.shields.io/badge/Oracle_Cloud_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP_Mastery_(BERT,_Tokenization)-0EA5E9?style=for-the-badge&logo=udemy&logoColor=white)
+![Infosys](https://img.shields.io/badge/Deep_Learning-007DC5?style=for-the-badge&logo=infosys&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_for_Data_Science-2A73CC?style=for-the-badge&logo=coursera&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhish12345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&ring_color=0EA5E9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abhish12345&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=FF6B6B&currStreakLabel=0EA5E9&sideLabels=0EA5E9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6B7280" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhish12345&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION GRAPH -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhish12345&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FF6B6B&area=true&area_color=192A56&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- CONNECT WITH ME -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> &nbsp;Let's Connect
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/abhishek-kumar-a26b3522a/">
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abhishekkumarnwd71@gmail.com">
+    <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/abhish12345">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:192A56,100:0EA5E9&height=120&section=footer" width="100%"/>
+
+</div>
+
+<div align="center">
+  <sub>⚡ Crafted with passion by <b>Abhishek Kumar</b> — Building AI that matters.</sub>
+</div>
