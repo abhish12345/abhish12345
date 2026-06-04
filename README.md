@@ -210,27 +210,6 @@ fun_fact: "I can build an AI that recognizes your voice among 250 people 🎤"
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=abhish12345&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=0EA5E9&amp;icon_color=0EA5E9&amp;text_color=c9d1d9&amp;ring_color=0EA5E9" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=abhish12345&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=0EA5E9&amp;fire=FF6B6B&amp;currStreakLabel=0EA5E9&amp;sideLabels=0EA5E9&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=6B7280" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-  <img width="60%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhish12345&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=0EA5E9&amp;text_color=c9d1d9&amp;langs_count=8" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION GRAPH -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
